@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\prjWantWant_yh_CoreMVC.props" />
+</Project>

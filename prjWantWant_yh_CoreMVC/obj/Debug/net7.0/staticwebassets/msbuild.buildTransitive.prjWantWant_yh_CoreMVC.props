@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\prjWantWant_yh_CoreMVC.props" />
+</Project>
