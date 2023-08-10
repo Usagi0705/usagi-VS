@@ -5,6 +5,878 @@
       "PackagePath": "staticwebassets\\prjWantWant_yh_CoreMVC.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\css\\alertify.min.css",
+      "PackagePath": "staticwebassets\\Backstage\\static\\css\\alertify.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\css\\app.min.css",
+      "PackagePath": "staticwebassets\\Backstage\\static\\css\\app.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Backstage\\static\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\css\\buttons.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\Backstage\\static\\css\\buttons.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\css\\choices.min.css",
+      "PackagePath": "staticwebassets\\Backstage\\static\\css\\choices.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\css\\classic.min.css",
+      "PackagePath": "staticwebassets\\Backstage\\static\\css\\classic.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\css\\css2.css",
+      "PackagePath": "staticwebassets\\Backstage\\static\\css\\css2.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\Backstage\\static\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\css\\default.min.css",
+      "PackagePath": "staticwebassets\\Backstage\\static\\css\\default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\css\\dropzone.min.css",
+      "PackagePath": "staticwebassets\\Backstage\\static\\css\\dropzone.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\css\\flatpickr.min.css",
+      "PackagePath": "staticwebassets\\Backstage\\static\\css\\flatpickr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\Backstage\\static\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\css\\icons.min.css",
+      "PackagePath": "staticwebassets\\Backstage\\static\\css\\icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\css\\jquery-jvectormap-1.2.2.css",
+      "PackagePath": "staticwebassets\\Backstage\\static\\css\\jquery-jvectormap-1.2.2.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\css\\leaflet.css",
+      "PackagePath": "staticwebassets\\Backstage\\static\\css\\leaflet.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\css\\main.min.css",
+      "PackagePath": "staticwebassets\\Backstage\\static\\css\\main.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\css\\main.min1.css",
+      "PackagePath": "staticwebassets\\Backstage\\static\\css\\main.min1.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\css\\main.min2.css",
+      "PackagePath": "staticwebassets\\Backstage\\static\\css\\main.min2.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\css\\main.min3.css",
+      "PackagePath": "staticwebassets\\Backstage\\static\\css\\main.min3.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\css\\monolith.min.css",
+      "PackagePath": "staticwebassets\\Backstage\\static\\css\\monolith.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\css\\nano.min.css",
+      "PackagePath": "staticwebassets\\Backstage\\static\\css\\nano.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\css\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\Backstage\\static\\css\\nouislider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\css\\preloader.min.css",
+      "PackagePath": "staticwebassets\\Backstage\\static\\css\\preloader.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\css\\prettify.css",
+      "PackagePath": "staticwebassets\\Backstage\\static\\css\\prettify.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\css\\responsive.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\Backstage\\static\\css\\responsive.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\css\\rwd-table.min.css",
+      "PackagePath": "staticwebassets\\Backstage\\static\\css\\rwd-table.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\css\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\Backstage\\static\\css\\sweetalert2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\css\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\Backstage\\static\\css\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\file\\img-1.jpg",
+      "PackagePath": "staticwebassets\\Backstage\\static\\file\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\file\\img-2.jpg",
+      "PackagePath": "staticwebassets\\Backstage\\static\\file\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\file\\img-3.jpg",
+      "PackagePath": "staticwebassets\\Backstage\\static\\file\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\file\\img-4.jpg",
+      "PackagePath": "staticwebassets\\Backstage\\static\\file\\img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\file\\img-5.jpg",
+      "PackagePath": "staticwebassets\\Backstage\\static\\file\\img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\boxicons.eot",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\boxicons.woff",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\dripicons-v2.eot",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\dripicons-v2.eot"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\dripicons-v2.ttf",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\dripicons-v2.ttf"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\dripicons-v2.woff",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\dripicons-v2.woff"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\zYX9KVElMYYaJe8bpLHnCwDKjQ76AI5sdO_q.woff2",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\zYX9KVElMYYaJe8bpLHnCwDKjQ76AI5sdO_q.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\zYX9KVElMYYaJe8bpLHnCwDKjQ76AI9sdO_q.woff2",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\zYX9KVElMYYaJe8bpLHnCwDKjQ76AI9sdO_q.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\zYX9KVElMYYaJe8bpLHnCwDKjQ76AIFsdA.woff2",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\zYX9KVElMYYaJe8bpLHnCwDKjQ76AIFsdA.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\zYX9KVElMYYaJe8bpLHnCwDKjQ76AIJsdO_q.woff2",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\zYX9KVElMYYaJe8bpLHnCwDKjQ76AIJsdO_q.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\zYX9KVElMYYaJe8bpLHnCwDKjQ76AIVsdO_q.woff2",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\zYX9KVElMYYaJe8bpLHnCwDKjQ76AIVsdO_q.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\zYX9KVElMYYaJe8bpLHnCwDKjQ76AIxsdO_q.woff2",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\zYX9KVElMYYaJe8bpLHnCwDKjQ76AIxsdO_q.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\zYX9KVElMYYaJe8bpLHnCwDKjSL9AI5sdO_q.woff2",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\zYX9KVElMYYaJe8bpLHnCwDKjSL9AI5sdO_q.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\zYX9KVElMYYaJe8bpLHnCwDKjSL9AI9sdO_q.woff2",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\zYX9KVElMYYaJe8bpLHnCwDKjSL9AI9sdO_q.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\zYX9KVElMYYaJe8bpLHnCwDKjSL9AIFsdA.woff2",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\zYX9KVElMYYaJe8bpLHnCwDKjSL9AIFsdA.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\zYX9KVElMYYaJe8bpLHnCwDKjSL9AIJsdO_q.woff2",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\zYX9KVElMYYaJe8bpLHnCwDKjSL9AIJsdO_q.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\zYX9KVElMYYaJe8bpLHnCwDKjSL9AIVsdO_q.woff2",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\zYX9KVElMYYaJe8bpLHnCwDKjSL9AIVsdO_q.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\zYX9KVElMYYaJe8bpLHnCwDKjSL9AIxsdO_q.woff2",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\zYX9KVElMYYaJe8bpLHnCwDKjSL9AIxsdO_q.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\zYX9KVElMYYaJe8bpLHnCwDKjXr8AI5sdO_q.woff2",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\zYX9KVElMYYaJe8bpLHnCwDKjXr8AI5sdO_q.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\zYX9KVElMYYaJe8bpLHnCwDKjXr8AI9sdO_q.woff2",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\zYX9KVElMYYaJe8bpLHnCwDKjXr8AI9sdO_q.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\zYX9KVElMYYaJe8bpLHnCwDKjXr8AIFsdA.woff2",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\zYX9KVElMYYaJe8bpLHnCwDKjXr8AIFsdA.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\zYX9KVElMYYaJe8bpLHnCwDKjXr8AIJsdO_q.woff2",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\zYX9KVElMYYaJe8bpLHnCwDKjXr8AIJsdO_q.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\zYX9KVElMYYaJe8bpLHnCwDKjXr8AIVsdO_q.woff2",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\zYX9KVElMYYaJe8bpLHnCwDKjXr8AIVsdO_q.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\zYX9KVElMYYaJe8bpLHnCwDKjXr8AIxsdO_q.woff2",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\zYX9KVElMYYaJe8bpLHnCwDKjXr8AIxsdO_q.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\zYXgKVElMYYaJe8bpLHnCwDKhd7eFb5N.woff2",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\zYXgKVElMYYaJe8bpLHnCwDKhd7eFb5N.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\zYXgKVElMYYaJe8bpLHnCwDKhdHeFQ.woff2",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\zYXgKVElMYYaJe8bpLHnCwDKhdHeFQ.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\zYXgKVElMYYaJe8bpLHnCwDKhdLeFb5N.woff2",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\zYXgKVElMYYaJe8bpLHnCwDKhdLeFb5N.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\zYXgKVElMYYaJe8bpLHnCwDKhdXeFb5N.woff2",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\zYXgKVElMYYaJe8bpLHnCwDKhdXeFb5N.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\zYXgKVElMYYaJe8bpLHnCwDKhd_eFb5N.woff2",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\zYXgKVElMYYaJe8bpLHnCwDKhd_eFb5N.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\font\\zYXgKVElMYYaJe8bpLHnCwDKhdzeFb5N.woff2",
+      "PackagePath": "staticwebassets\\Backstage\\static\\font\\zYXgKVElMYYaJe8bpLHnCwDKhdzeFb5N.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\image\\auth-bg.jpg",
+      "PackagePath": "staticwebassets\\Backstage\\static\\image\\auth-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\image\\bg-3.jpg",
+      "PackagePath": "staticwebassets\\Backstage\\static\\image\\bg-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\image\\layers-2x.png",
+      "PackagePath": "staticwebassets\\Backstage\\static\\image\\layers-2x.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\image\\layers.png",
+      "PackagePath": "staticwebassets\\Backstage\\static\\image\\layers.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\image\\marker-icon.png",
+      "PackagePath": "staticwebassets\\Backstage\\static\\image\\marker-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\alert.init.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\alert.init.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\alertify.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\alertify.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\apexcharts.init.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\apexcharts.init.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\apexcharts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\app.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\bootstrap-toasts.init.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\bootstrap-toasts.init.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\buttons.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\buttons.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\buttons.colVis.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\buttons.colVis.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\buttons.html5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\buttons.print.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\calendar.init.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\calendar.init.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\chart.umd.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\chart.umd.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\chartjs.init.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\chartjs.init.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\choices.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\choices.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\ckeditor.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\ckeditor.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\coming-soon.init.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\coming-soon.init.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\dashboard.init.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\dashboard.init.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\datatable-pages.init.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\datatable-pages.init.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\datatables.init.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\datatables.init.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\dropzone.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\dropzone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\echarts.init.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\echarts.init.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\echarts.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\echarts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\email-editor.init.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\email-editor.init.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\feather.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\feather.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\flatpickr.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\flatpickr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\fontawesome.init.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\fontawesome.init.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\form-advanced.init.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\form-advanced.init.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\form-editor.init.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\form-editor.init.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\form-mask.init.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\form-mask.init.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\form-validation.init.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\form-validation.init.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\form-wizard.init.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\form-wizard.init.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\gmaps.init.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\gmaps.init.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\gmaps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\imask.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\imask.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\index.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\index1.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\index1.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\invoices-list.init.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\invoices-list.init.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\jquery-jvectormap-1.2.2.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\jquery-jvectormap-1.2.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\jquery-jvectormap-au-mill-en.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\jquery-jvectormap-au-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\jquery-jvectormap-ca-lcc-en.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\jquery-jvectormap-ca-lcc-en.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\jquery-jvectormap-in-mill-en.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\jquery-jvectormap-in-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\jquery-jvectormap-uk-mill-en.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\jquery-jvectormap-uk-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\jquery-jvectormap-us-il-chicago-mill-en.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\jquery-jvectormap-us-il-chicago-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\jquery-jvectormap-us-merc-en.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\jquery-jvectormap-us-merc-en.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\jquery-knob.init.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\jquery-knob.init.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\jquery.bootstrap.wizard.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\jquery.bootstrap.wizard.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\jquery.knob.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\jquery.knob.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\jszip.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\jszip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\leaflet-map.init.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\leaflet-map.init.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\leaflet-us-states.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\leaflet-us-states.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\leaflet.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\leaflet.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\lightbox.init.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\lightbox.init.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\main.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\main.min1.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\main.min1.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\main.min2.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\main.min2.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\main.min3.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\main.min3.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\main.min4.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\main.min4.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\masonry.pkgd.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\masonry.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\materialdesign.init.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\materialdesign.init.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\metisMenu.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\metisMenu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\modal.init.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\modal.init.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\notification.init.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\notification.init.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\nouislider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\pace.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\pace.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\pass-addon.init.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\pass-addon.init.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\pdfmake.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\pickr.es5.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\pickr.es5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\pickr.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\pickr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\prettify.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\prettify.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\pristine.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\pristine.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\rangeslider.init.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\rangeslider.init.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\rating.init.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\rating.init.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\responsive.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\responsive.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\rwd-table.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\rwd-table.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\session-timeout.init.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\session-timeout.init.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\simplebar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\sparklines.init.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\sparklines.init.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\sweetalert.init.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\sweetalert.init.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\sweetalert2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\table-editable.int.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\table-editable.int.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\table-edits.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\table-edits.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\table-responsive.init.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\table-responsive.init.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\two-step-verification.init.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\two-step-verification.init.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\validation.init.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\validation.init.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\vector-maps.init.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\vector-maps.init.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\vfs_fonts.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\wNumb.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\wNumb.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\js\\waves.min.js",
+      "PackagePath": "staticwebassets\\Backstage\\static\\js\\waves.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\picture\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\Backstage\\static\\picture\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\picture\\avatar-10.jpg",
+      "PackagePath": "staticwebassets\\Backstage\\static\\picture\\avatar-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\picture\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\Backstage\\static\\picture\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\picture\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\Backstage\\static\\picture\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\picture\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\Backstage\\static\\picture\\avatar-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\picture\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\Backstage\\static\\picture\\avatar-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\picture\\avatar-6.jpg",
+      "PackagePath": "staticwebassets\\Backstage\\static\\picture\\avatar-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\picture\\avatar-8.jpg",
+      "PackagePath": "staticwebassets\\Backstage\\static\\picture\\avatar-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\picture\\avatar-9.jpg",
+      "PackagePath": "staticwebassets\\Backstage\\static\\picture\\avatar-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\picture\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\Backstage\\static\\picture\\bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\picture\\bg-2.jpg",
+      "PackagePath": "staticwebassets\\Backstage\\static\\picture\\bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\picture\\bg-3.jpg",
+      "PackagePath": "staticwebassets\\Backstage\\static\\picture\\bg-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\picture\\bitbucket.png",
+      "PackagePath": "staticwebassets\\Backstage\\static\\picture\\bitbucket.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\picture\\dribbble.png",
+      "PackagePath": "staticwebassets\\Backstage\\static\\picture\\dribbble.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\picture\\dropbox.png",
+      "PackagePath": "staticwebassets\\Backstage\\static\\picture\\dropbox.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\picture\\error-img.png",
+      "PackagePath": "staticwebassets\\Backstage\\static\\picture\\error-img.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\picture\\germany.jpg",
+      "PackagePath": "staticwebassets\\Backstage\\static\\picture\\germany.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\picture\\giftbox.png",
+      "PackagePath": "staticwebassets\\Backstage\\static\\picture\\giftbox.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\picture\\github.png",
+      "PackagePath": "staticwebassets\\Backstage\\static\\picture\\github.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\picture\\img-1.jpg",
+      "PackagePath": "staticwebassets\\Backstage\\static\\picture\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\picture\\img-2.jpg",
+      "PackagePath": "staticwebassets\\Backstage\\static\\picture\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\picture\\img-3.jpg",
+      "PackagePath": "staticwebassets\\Backstage\\static\\picture\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\picture\\img-4.jpg",
+      "PackagePath": "staticwebassets\\Backstage\\static\\picture\\img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\picture\\img-5.jpg",
+      "PackagePath": "staticwebassets\\Backstage\\static\\picture\\img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\picture\\img-6.jpg",
+      "PackagePath": "staticwebassets\\Backstage\\static\\picture\\img-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\picture\\img-7.jpg",
+      "PackagePath": "staticwebassets\\Backstage\\static\\picture\\img-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\picture\\italy.jpg",
+      "PackagePath": "staticwebassets\\Backstage\\static\\picture\\italy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\picture\\logo-sm.svg",
+      "PackagePath": "staticwebassets\\Backstage\\static\\picture\\logo-sm.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\picture\\mail_chimp.png",
+      "PackagePath": "staticwebassets\\Backstage\\static\\picture\\mail_chimp.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\picture\\russia.jpg",
+      "PackagePath": "staticwebassets\\Backstage\\static\\picture\\russia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\picture\\slack.png",
+      "PackagePath": "staticwebassets\\Backstage\\static\\picture\\slack.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\picture\\spain.jpg",
+      "PackagePath": "staticwebassets\\Backstage\\static\\picture\\spain.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\picture\\undraw-calendar.svg",
+      "PackagePath": "staticwebassets\\Backstage\\static\\picture\\undraw-calendar.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\Backstage\\static\\picture\\us.jpg",
+      "PackagePath": "staticwebassets\\Backstage\\static\\picture\\us.jpg"
+    },
+    {
       "Id": "C:\\Users\\User\\Desktop\\期末專題\\VS\\slnWantWant_yh_CoreMVC\\prjWantWant_yh_CoreMVC\\wwwroot\\assets\\css\\animate.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\animate.min.css"
     },
